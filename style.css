@@ -1,0 +1,35 @@
+.entry{
+	border: black;
+	margin-bottom: 20px;
+	text-align: center;
+}
+#numi{
+	width:100px;
+	height: 40px;
+	background: #c1e9f7;
+}
+#numii{
+	width:100px;
+	height: 40px;
+	background: #c1e9f7;
+}
+.result{
+  width: 100px;
+  height: 40px;
+  background: #8ebf8e;
+  margin-left: 580px;
+  margin-top: 10px;
+}
+h2{
+	text-align: center;
+}
+.process{
+	text-align: center;
+}
+.sign{
+	text-align: center;
+	margin-bottom: 10px;
+}
+body{
+	background-color: lightyellow;
+}
